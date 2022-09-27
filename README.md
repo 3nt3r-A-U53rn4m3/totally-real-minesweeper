@@ -2,4 +2,4 @@
 100% real working minesweeper. Have fun!
 
 #View on REPLIT
-(here)[https://adversarialminesweeper.leshui.repl.co]
+[here](https://adversarialminesweeper.leshui.repl.co)
